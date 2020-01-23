@@ -1,0 +1,10 @@
+---
+title: "Controller Testing React on Rails"
+type: "exercise"
+description: "Practice testing API endpoints in Rails"
+behaviors:
+  - rails
+  - ruby_and_rspec
+  - capybara
+ignore:
+- "controller-testing-react-on-rails.md"
